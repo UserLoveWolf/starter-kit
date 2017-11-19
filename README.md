@@ -19,7 +19,7 @@ $ npm install
 ```bash
 $ gulp dev
 ```
-Go to localhost:8123
+##  [Go to localhost:8123]()
 
 (Browsersync is used, so do not worry about reloading the page every time you save)
 
