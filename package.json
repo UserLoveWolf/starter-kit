@@ -6,6 +6,10 @@
   "scripts": {
     "dev": "gulp dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UserLoveWolf/starter-kit.git"
+  },
   "author": "UserLoveWolf",
   "license": "MIT",
   "devDependencies": {
