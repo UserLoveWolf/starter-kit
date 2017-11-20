@@ -1,5 +1,7 @@
 #   Starter Kit
 
+[![Build Status](https://travis-ci.org/UserLoveWolf/starter-kit.svg?branch=master)](https://travis-ci.org/UserLoveWolf/starter-kit)
+
 ###  Starter kit for web dev using [Gulp](https://www.gulpjs.com), [Babel](https://www.babeljs.io) and [MDL](https://www.getmdl.io)
 
 ##  To get started
